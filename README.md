@@ -15,8 +15,8 @@
   </p>
   <ol>
     <li>Flask: https://github.com/sanderpiva/projetoClassificacao.git</li>
-    <li>React: https://github.com/sanderpiva/reactClassificacaoTCC.git</li>
-    <li>Vercel: https://github.com/sanderpiva/reactVercelClassificacao.git</li>
+    <li>React: https://github.com/sanderpiva/reactVercelClassificacao.git</li>
+    <li>Vercel: https://react-vercel-classificacao.vercel.app/</li>
   </ol>
 </div>
 <div>
