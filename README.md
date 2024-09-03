@@ -1,7 +1,10 @@
 <h1>NOME PROJETO TCC</h1>
 <div>
   <p>
-    SEU TEXTO
+    Atualmente, a evasão acadêmica é um desafio em diferentes níveis de ensino, e seu impacto direto afeta alunos, instituições e o futuro do mercado de trabalho, principalmente o de     tecnologia. Embora a demanda por esses profissionais aumente, o número de vagas preenchidas diminui, sendo a evasão uma realidade preocupante. Logo, o objetivo deste trabalho é implementar uma proposta de modelo preditivo em machine learning para avaliação da evasão dos alunos no curso superior de Bacharelado em Sistemas de Informação do Instituto Federal Sul de Minas, Campus Machado MG, identificando as principais variáveis que explicam o fenômeno. Inicialmente, os dados devem ser preparados e normalizados, divididos em bases de treinamento e teste para em seguida serem aplicados nos algoritmos de aprendizagem de máquina Árvore de Decisão (AD), Floresta Randômica (FR), K-vizinhos mais próximos (KNN) e um modelo alternativo (rede Bayes ou Nave Bayes), pois a  escolha ideal combina a melhor acurácia e performance possível de acertos para os casos de evasão, conforme Tabela de confusão. Para essa pesquisa, o modelo Nave Bayes foi escolhido com acurácia de 67% com 76% de acertos de evasão e será base para uma aplicação web auxiliando o gestor na predição de evasão do aluno e na definição de estratégias antievasão, como orientação acadêmica e programas de mentoria.
+
+Palavras-chave: abandono escolar, inteligência artificial, sistemas, softwares 
+
   </p>
 </div>
 <div>
