@@ -9,11 +9,6 @@ Palavras-chave: abandono escolar, inteligência artificial, sistemas, softwares
 </div>
 <div>
   <p>
-    SEU TEXTO 
-  </p>
-</div>
-<div>
-  <p>
     Os repositórios dos projetos Flask, React e da aplicação final na Vercel estão disponíveis nos links a seguir:
   </p>
   <ol>
