@@ -28,7 +28,7 @@ Palavras-chave: abandono escolar, inteligência artificial, sistemas, softwares
     <li>Matheus Eloy Franco </li>
   </ul>
 </div>
-<div>
+<div><br>
   <h2>Algumas fotos do resultado no Flask:</h2>
   
    <img src="https://github.com/sanderpiva/TCC_Final/blob/main/imgs/flask_evade.png" alt="Foto 1: Teste EVASAO">
