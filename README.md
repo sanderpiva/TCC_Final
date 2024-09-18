@@ -9,7 +9,7 @@ Palavras-chave: abandono escolar, inteligência artificial, sistemas, softwares
 </div>
 <div>
   <p>
-    Os insights obtidos pelos dados, bem como os repositórios dos projetos Flask, React e da aplicação final na Vercel estão disponíveis nos links a seguir:
+    Os <i>insights</i> obtidos pelos dados, bem como os repositórios dos projetos Flask, React e da aplicação final na Vercel estão disponíveis nos links a seguir:
   </p>
   <ol>
     <li><i>Insights</i> dos dados: https://lookerstudio.google.com/reporting/5fddd255-7cb8-49c5-b79e-dcacf117c4f4</li>
