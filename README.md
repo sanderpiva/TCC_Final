@@ -34,8 +34,10 @@ Palavras-chave: abandono escolar, inteligência artificial, sistemas, softwares
   <img src="https://github.com/sanderpiva/TCC_Final/blob/main/imgs/flask_evade.png" alt="Foto 1: Teste EVASAO">
   <p>Foto 1: Teste EVASAO</p><br><br>
   <img src="https://github.com/sanderpiva/TCC_Final/blob/main/imgs/flask_nao_evade.png" alt="Foto 2: Teste NAO EVASAO">
-  <p>Foto 2: Teste NAO EVASAO</p><br><br>
+  <p>Foto 2: Teste NAO EVASAO</p><br>
+  
   <h2>Fotos da aplicação final em react: </h2>
+  
   <img src="https://github.com/sanderpiva/TCC_Final/blob/main/imgs/react.png" alt="Foto 4: ChatBot Hotel Central">
   <p>Foto 3: APP NO VERCEL</p><br><br>
   <h4 align="left"> 
