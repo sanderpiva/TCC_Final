@@ -30,9 +30,11 @@ Palavras-chave: abandono escolar, inteligência artificial, sistemas, softwares
 </div>
 <div><br>
   <h2>Algumas fotos do sistema em Flask:</h2>
+  <div style="text-align:center">
+	<img src="https://github.com/sanderpiva/TCC_Final/blob/main/imgs/flask_evade.png" alt="Foto 1: Teste EVASAO">
+  	<p> Foto 1: Teste EVASAO</p><br><br>
   
-   <img src="https://github.com/sanderpiva/TCC_Final/blob/main/imgs/flask_evade.png" alt="Foto 1: Teste EVASAO">
-  <p> Foto 1: Teste EVASAO</p><br><br>
+  </div>
   <img src="https://github.com/sanderpiva/TCC_Final/blob/main/imgs/flask_nao_evade.png" alt="Foto 2: Teste NAO EVASAO">
   <p> Foto 2: Teste NAO EVASAO</p><br>
   
