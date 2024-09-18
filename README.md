@@ -11,7 +11,8 @@ Palavras-chave: abandono escolar, inteligência artificial, sistemas, softwares
   <p>
     Os repositórios dos projetos Flask, React e da aplicação final na Vercel estão disponíveis nos links a seguir:
   </p>
-  <ol>
+  <ol>https://lookerstudio.google.com/reporting/5fddd255-7cb8-49c5-b79e-dcacf117c4f4
+    <li>Insights obtidos pelos dados: https://lookerstudio.google.com/reporting/5fddd255-7cb8-49c5-b79e-dcacf117c4f4</li>
     <li>Flask: https://github.com/sanderpiva/projetoClassificacao.git</li>
     <li>React: https://github.com/sanderpiva/reactClassificacaoTCC.git</li>
     <li>Vercel: https://react-vercel-classificacao.vercel.app/</li>
