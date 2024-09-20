@@ -38,8 +38,8 @@ Palavras-chave: abandono escolar, inteligência artificial, sistemas, softwares
   
   <h2>Fotos da aplicação final em React: </h2><br>
   
-  <img src="https://github.com/sanderpiva/TCC_Final/blob/main/imgs/react.png" alt="Foto 4: ChatBot Hotel Central">
-  <p> Foto 3: APP NO VERCEL</p><br><br>
+  <img src="https://github.com/sanderpiva/TCC_Final/blob/main/imgs/react.png" alt="Foto 4: App no Vercel">
+  <p> Foto 3: <i>App</i> NO VERCEL</p><br><br>
   <h4 align="left"> 
 	🚧  NoDropOut Soft 🚀 Finalizado em //2024
 </h4>
