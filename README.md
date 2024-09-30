@@ -13,7 +13,7 @@ Palavras-chave: Inteligência artificial, Análise de dados educacionais, Algori
     Os <i>insights</i> obtidos pelos dados, bem como os repositórios dos projetos <i>Flask, React</i> e da aplicação final em <i>Vercel</i> estão disponíveis nos links a seguir:
   </p>
   <ol>
-    <li><i>Insights</i> dos dados: https://lookerstudio.google.com/reporting/5fddd255-7cb8-49c5-b79e-dcacf117c4f4</li>
+    <li>Análise geral dos dados: https://lookerstudio.google.com/reporting/5fddd255-7cb8-49c5-b79e-dcacf117c4f4</li>
     <li><i>Flask:</i> https://github.com/sanderpiva/projetoClassificacao.git</li>
     <li><i>React:</i> https://github.com/sanderpiva/reactClassificacaoTCC.git</li>
     <li><i>Vercel:</i> https://react-vercel-classificacao.vercel.app/</li>
