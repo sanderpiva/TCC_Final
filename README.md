@@ -41,6 +41,6 @@ Palavras-chave: Inteligência artificial, Análise de dados educacionais, Algori
   <img src="https://github.com/sanderpiva/TCC_Final/blob/main/imgs/react.png" alt="Foto 4: App no Vercel">
   <p> Foto 3: <i>App</i> no VERCEL</p><br><br>
   <h4 align="left"> 
-	🚧  NoDropOut Soft 🚀 Finalizado em //2024
+	🚧  NoDropOut Soft 🚀 Finalizado em 01/10/2024
 </h4>
 </div>
