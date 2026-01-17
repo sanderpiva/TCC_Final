@@ -20,6 +20,10 @@ Palavras-chave: Inteligência artificial, Análise de dados educacionais, Algori
   </ol>
 </div>
 <div>
+	<p>IMPORTANTE: Caso não consiga abrir pelo Vercel, devido ao ciclo da conta Azure Students dependendo da data de consulta, instale o Flutter no seu computador (link: https://flutter.dev/), baixe o arquivo tcc_flutter.zip, descompacte, abra o código em Flutter (sistema mobile) e 
+	execute para ter a mesma experiência da predição.</p>
+</div>	
+<div>
   <p>Autor do projeto: </p>
   <ul>
     <li>Sander Gustavo Piva</li>
