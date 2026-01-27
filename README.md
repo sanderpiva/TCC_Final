@@ -20,8 +20,18 @@ Palavras-chave: Inteligência artificial, Análise de dados educacionais, Algori
   </ol>
 </div>
 <div>
-	<p>IMPORTANTE: Caso não consiga abrir pelo Vercel, devido ao ciclo da conta Azure Students dependendo da data de consulta, instale o Flutter no seu computador (link: https://flutter.dev/), baixe o arquivo tcc_flutter.zip, descompacte, abra o código em Flutter (sistema mobile) e 
-	execute para ter a mesma experiência da predição.</p>
+	<p>
+    <strong>IMPORTANTE:</strong> Caso não seja possível acessar o projeto pelo Vercel, em função do ciclo da conta Azure Students (que pode variar conforme a data de consulta), existem as seguintes alternativas:
+  </p>
+
+  <p>
+    1) Instale o Flutter em seu computador (<a href="https://flutter.dev/" target="_blank">https://flutter.dev/</a>), baixe o arquivo <em>tcc_flutter.zip</em>, descompacte-o, abra o projeto no Flutter (aplicação mobile) e execute-o para obter a mesma experiência da predição.
+  </p>
+
+  <p>
+    2) Outra possibilidade é abrir e executar o projeto gratuitamente por meio da plataforma FlutLab.io
+    (<a href="https://flutlab.io/" target="_blank">https://flutlab.io/</a>).
+  </p>
 </div>	
 <div>
   <p>Autor do projeto: </p>
