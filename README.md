@@ -1,61 +1,76 @@
-<h1>PROPOSTA DE MODELO PREDITIVO EM <i>MACHINE LEARNING</i> PARA AVALIAÇÃO DA EVASÃO DO ALUNO NO CURSO SUPERIOR DE BACHARELADO EM SISTEMAS DE INFORMAÇÃO</h1>
-<div>
-  <p>
-    Atualmente, a evasão acadêmica é um desafio em diferentes níveis de ensino, e seu impacto direto afeta alunos, instituições e o futuro do mercado de trabalho, principalmente o de     tecnologia. Embora a demanda por esses profissionais aumente, o número de vagas preenchidas diminui, sendo a evasão uma realidade preocupante. Logo, o objetivo deste trabalho é implementar uma proposta de modelo preditivo em <i>machine learning</i> para avaliação da evasão dos alunos no curso superior de Bacharelado em Sistemas de Informação do Instituto Federal Sul de Minas, Campus Machado, identificando as principais variáveis que explicam o fenômeno. Inicialmente, os dados foram preparados, divididos em bases de treinamento e teste para aplicar os algoritmos de aprendizagem de máquina Árvore de Decisão (AD), Floresta Randômica (FR) e K-vizinhos mais próximos (KNN). 
-  </p>
-  <p>
-	  A escolha ideal combina a melhor acurácia e performance possível de acertos para os casos de evasão. Outros algoritmos foram testados, sendo o modelo <i>Naive Bayes</i> escolhido com acurácia de 67% e 76% de acertos para os casos de evasão, servindo de base para uma aplicação <i>web</i> auxiliar o gestor na predição de evasão do aluno e na definição de estratégias antievasão, como orientação acadêmica e programas de mentoria. A partir dos resultados obtidos, observou-se que a proposta possui a potencialidade de auxiliar no entendimento da evasão no curso de Bacharelado em Sistemas de Informação.
+# 🎓 Modelo Preditivo para Avaliação de Evasão Acadêmica
+### Bacharelado em Sistemas de Informação - IFSULDEMINAS Campus Machado
 
-Palavras-chave: Inteligência artificial, Análise de dados educacionais, Algoritmos de aprendizagem
-  </p>
-</div>
-<div>
-  <p>
-    Os <i>insights</i> obtidos pelos dados, bem como os repositórios dos projetos <i>Flask, React</i> e da aplicação final em <i>Vercel</i> estão disponíveis nos links a seguir:
-  </p>
-  <ol>
-    <li>Análise geral dos dados: https://lookerstudio.google.com/reporting/5fddd255-7cb8-49c5-b79e-dcacf117c4f4</li>
-    <li><i>Flask:</i> https://github.com/sanderpiva/projetoClassificacao.git</li>
-    <li><i>React:</i> https://github.com/sanderpiva/reactClassificacaoTCC.git</li>
-    <li><i>Vercel:</i> https://react-vercel-classificacao.vercel.app/</li>
-  </ol>
-</div>
-<div>
-	<p>
-    <strong>IMPORTANTE:</strong> Caso não seja possível acessar o projeto pelo Vercel, em função do ciclo da conta Azure Students (que pode variar conforme a data de consulta), existem as seguintes alternativas:
-  </p>
+Este projeto implementa uma proposta de Inteligência Artificial para identificar indícios de evasão escolar, auxiliando gestores na criação de estratégias antievasão personalizadas.
 
-  <p>
-    1) Instale o Flutter em seu computador (<a href="https://flutter.dev/" target="_blank">https://flutter.dev/</a>), baixe o arquivo <em>tcc_flutter.zip</em>, descompacte-o, abra o projeto no Flutter (aplicação mobile) e execute-o para obter a mesma experiência da predição.
-  </p>
+---
 
-  <p>
-    2) Outra possibilidade é abrir e executar o projeto gratuitamente por meio da plataforma FlutLab.io
-    (<a href="https://flutlab.io/" target="_blank">https://flutlab.io/</a>).
-  </p>
-</div>	
-<div>
-  <p>Autor do projeto: </p>
-  <ul>
-    <li>Sander Gustavo Piva</li>
-  </ul>
-  <p>Orientador do projeto: </p>
-  <ul>
-    <li>Matheus Eloy Franco </li>
-  </ul>
-</div>
-<div><br>
-  <h2>Algumas fotos da aplicação em Flask:</h2><br>
-  <img src="https://github.com/sanderpiva/TCC_Final/blob/main/imgs/flask_evade.png" alt="Foto 1: Teste EVASAO">
-  <p> Foto 1: Teste EVASAO</p><br><br>
-  <img src="https://github.com/sanderpiva/TCC_Final/blob/main/imgs/flask_nao_evade.png" alt="Foto 2: Teste NAO EVASAO">
-  <p> Foto 2: Teste NAO EVASAO</p><br>
-  
-  <h2>Fotos da aplicação final em React: </h2><br>
-  
-  <img src="https://github.com/sanderpiva/TCC_Final/blob/main/imgs/react.png" alt="Foto 4: App no Vercel">
-  <p> Foto 3: <i>App</i> no VERCEL</p><br><br>
-  <h4 align="left"> 
-	🚧  NoDropOut Soft 🚀 Finalizado em 01/10/2024
-</h4>
-</div>
+## 📝 Resumo do Projeto
+A evasão acadêmica em cursos de tecnologia é um desafio que impacta o mercado de trabalho. Este trabalho utiliza **Machine Learning** para identificar as variáveis que explicam esse fenômeno, culminando em uma aplicação web preditiva.
+
+* **Principais Algoritmos Testados:** Árvore de Decisão (AD), Floresta Randômica (FR), K-Vizinhos mais próximos (KNN), Support Vector Machine (SVM) e Naive Bayes.
+* **Modelo Escolhido:** *Naive Bayes* (Acurácia de 67% e 76% de acertos para os casos de evasão.
+* **Palavras-chave:** Inteligência Artificial, Análise de Dados Educacionais, Algoritmos de Aprendizagem.
+
+---
+
+## 📊 Análise e Visualização de Dados
+Para o entendimento do cenário e exploração das variáveis, acesse o dashboard interativo:
+
+🔗 **1. [Análise Geral dos Dados (Looker Studio)](https://lookerstudio.google.com/reporting/5fddd255-7cb8-49c5-b79e-dcacf117c4f4)**
+
+---
+
+## 🔗 Repositórios e Aplicações
+
+Abaixo estão os links diretos para as frentes de desenvolvimento e códigos-fonte do projeto:
+
+* **2. Backend (API Flask):** [projetoClassificacao](https://github.com/sanderpiva/projetoClassificacao.git)
+* **3. Frontend (React):** [reactClassificacaoTCC](https://github.com/sanderpiva/reactClassificacaoTCC.git)
+* **4. Aplicação Web Final:** [🚀 Disponível na Vercel](https://react-vercel-classificacao.vercel.app/)
+
+---
+
+## ⚠️ Alternativas de Acesso e Execução
+
+Caso a aplicação web esteja offline ou deseje executar localmente, utilize as opções abaixo:
+
+* **5. Flutter (Framework):** Instale as ferramentas em [flutter.dev](https://flutter.dev/) para executar a aplicação mobile.
+* **6. FlutLab:** Execute o projeto diretamente no navegador através do [FlutLab.io](https://flutlab.io/).
+
+---
+
+## 👥 Autoria e Orientação
+
+* **Autor:** Sander Gustavo Piva
+* **Orientador:** Matheus Eloy Franco
+
+---
+
+## 📸 Demonstração da Aplicação
+
+### Interface Flask (Testes de Predição)
+<br>
+
+**Teste: Indicação de EVASÃO**
+<br>
+
+![Foto 1: Teste EVASAO](https://github.com/sanderpiva/TCC_Final/blob/main/imgs/flask_evade.png?raw=true)
+
+<br>
+
+**Teste: Indicação de NÃO EVASÃO**
+<br>
+
+![Foto 2: Teste NAO EVASAO](https://github.com/sanderpiva/TCC_Final/blob/main/imgs/flask_nao_evade.png?raw=true)
+
+<br>
+
+### Interface Final em React (Vercel)
+<br>
+
+![Foto 3: App no VERCEL](https://github.com/sanderpiva/TCC_Final/blob/main/imgs/react.png?raw=true)
+
+---
+
+#### 🚧 NoDropOut Soft 🚀 Finalizado em 01/10/2024
