@@ -25,9 +25,10 @@ Para o entendimento do cenário e exploração das variáveis, acesse o dashboar
 
 Abaixo estão os links diretos para as frentes de desenvolvimento e códigos-fonte do projeto:
 
-* **2. Backend (API Flask):** [projetoClassificacao](https://github.com/sanderpiva/projetoClassificacao.git)
-* **3. Frontend (React):** [reactClassificacaoTCC](https://github.com/sanderpiva/reactClassificacaoTCC.git)
-* **4. Aplicação Web Final:** [🚀 Disponível na Vercel](https://react-vercel-classificacao.vercel.app/)
+* **2. Notebooks:** [notebooks](https://drive.google.com/drive/folders/1FyKA6ylhf3Z_hR-XsyIfWfPhDpJB5kWK?usp=drive_link)
+* **3. Backend (API Flask):** [projetoClassificacao](https://github.com/sanderpiva/projetoClassificacao.git)
+* **4. Frontend (React):** [reactClassificacaoTCC](https://github.com/sanderpiva/reactClassificacaoTCC.git)
+* **5. Aplicação Web Final:** [🚀 Disponível na Vercel](https://react-vercel-classificacao.vercel.app/)
 
 ---
 
