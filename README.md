@@ -9,13 +9,20 @@ Este projeto implementa uma proposta de Inteligência Artificial para identifica
 A evasão acadêmica em cursos de tecnologia é um desafio que impacta o mercado de trabalho. Este trabalho utiliza **Machine Learning** para identificar as variáveis que explicam esse fenômeno, culminando em uma aplicação web preditiva.
 
 * **Principais Algoritmos Testados:** Árvore de Decisão (AD), Floresta Randômica (FR), K-Vizinhos mais próximos (KNN), Support Vector Machine (SVM) e Naive Bayes.
-* **Modelo Escolhido:** *Naive Bayes* (Acurácia de 67% e 76% de acertos para os casos de evasão.
+* **Modelo Escolhido:** *Naive Bayes* (Acurácia de 67% e 76% de acertos para os casos de evasão).
 * **Palavras-chave:** Inteligência Artificial, Análise de Dados Educacionais, Algoritmos de Aprendizagem.
 
 ---
 
+## 🔒 Proteção de Dados e LGPD
+Em conformidade com a **Lei Geral de Proteção de Dados (LGPD)**, este repositório **não contém a base de dados original** por envolver informações institucionais sensíveis. 
+* Todos os resultados, capturas de tela e notebooks aqui apresentados utilizam **dados anonimizados** (variáveis demográficas e acadêmicas sem identificadores como Nome, CPF ou Matrícula). 
+* O foco deste portfólio é a demonstração da metodologia de Ciência de Dados e a arquitetura da solução, garantindo a privacidade dos titulares dos dados.
+
+---
+
 ## 📊 Análise e Visualização de Dados
-Para o entendimento do cenário e exploração das variáveis, acesse o dashboard interativo:
+Para o entendimento do cenário e exploração das variáveis (**Conceito 1 - Observação de Dados**), acesse o dashboard interativo:
 
 🔗 **1. [Análise Geral dos Dados (Looker Studio)](https://lookerstudio.google.com/reporting/5fddd255-7cb8-49c5-b79e-dcacf117c4f4)**
 
@@ -25,7 +32,7 @@ Para o entendimento do cenário e exploração das variáveis, acesse o dashboar
 
 Abaixo estão os links diretos para as frentes de desenvolvimento e códigos-fonte do projeto:
 
-* **2. Notebooks:** [notebooks](https://drive.google.com/drive/folders/1FyKA6ylhf3Z_hR-XsyIfWfPhDpJB5kWK?usp=drive_link)
+* **2. Notebooks:** [Visualizar Notebooks](https://drive.google.com/drive/folders/1FyKA6ylhf3Z_hR-XsyIfWfPhDpJB5kWK?usp=drive_link)
 * **3. Backend (API Flask):** [projetoClassificacao](https://github.com/sanderpiva/projetoClassificacao.git)
 * **4. Frontend (React):** [reactClassificacaoTCC](https://github.com/sanderpiva/reactClassificacaoTCC.git)
 * **5. Aplicação Web Final:** [🚀 Disponível na Vercel](https://react-vercel-classificacao.vercel.app/)
