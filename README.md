@@ -41,10 +41,10 @@ Abaixo estão os links diretos para as frentes de desenvolvimento e códigos-fon
 
 ## ⚠️ Alternativas de Acesso e Execução
 
-Caso a aplicação web esteja offline ou deseje executar localmente, utilize as opções abaixo:
+Caso a aplicação web esteja offline, utilize o arquivo tcc_flutter.zip seguindo uma das opções abaixo:
 
-* **5. Flutter (Framework):** Instale as ferramentas em [flutter.dev](https://flutter.dev/) para executar a aplicação mobile.
-* **6. FlutLab:** Execute o projeto diretamente no navegador através do [FlutLab.io](https://flutlab.io/).
+* **5. Flutter (Framework):** Instale o ambiente de desenvolvimento em [flutter.dev](https://flutter.dev/) para compilar e executar a aplicação mobile ou desktop.
+* **6. FlutLab:** Para uma execução rápida sem instalação, carregue o projeto diretamente no navegador através do [FlutLab.io](https://flutlab.io/).
 
 ---
 
