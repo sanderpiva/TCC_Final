@@ -87,8 +87,6 @@ Caso a aplicação web esteja offline, utilize o arquivo tcc_flutter.zip seguind
 
 ![flutter2](https://github.com/user-attachments/assets/8724a90e-55c1-428b-9568-e869fb49cbd4)
 
-<br>
-
 ---
 
 #### 🚧 NoDropOut Soft 🚀 Finalizado em 01/10/2024
