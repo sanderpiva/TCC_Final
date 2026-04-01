@@ -22,7 +22,7 @@ Em conformidade com a **Lei Geral de Proteção de Dados (LGPD)**, este reposit�
 ---
 
 ## 📊 Análise e Visualização de Dados
-Para o entendimento do cenário e exploração das variáveis (**Conceito 1 - Observação de Dados**), acesse o dashboard interativo:
+Para o entendimento do cenário e exploração das variáveis (**Observação de Dados**), acesse o dashboard interativo:
 
 🔗 **1. [Análise Geral dos Dados (Looker Studio)](https://lookerstudio.google.com/reporting/5fddd255-7cb8-49c5-b79e-dcacf117c4f4)**
 
