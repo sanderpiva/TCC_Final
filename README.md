@@ -39,21 +39,21 @@ Abaixo estão os links diretos para as frentes de desenvolvimento e códigos-fon
 
 ---
 
-## 📂 Código fonte
-
-Para garantir a transparência e facilitar a revisão técnica, o projeto pode ser:
-
-* **1. Visualizado Diretamente:** Acesse a pasta [**/src**](./src) para navegar pelo código-fonte (`.dart`) e arquivos de configuração. 
-   > *Nota: Nesta versão, o rótulo de classificação **"Matriculado"** foi refinado para **"Não Evadido"** (Classe 0), garantindo maior precisão semântica para alunos matriculados e egressos.*
-
----
-
 ## ⚠️ Alternativas de Acesso e Execução
 
 Caso a aplicação web esteja offline, utilize o arquivo tcc_flutter.zip seguindo uma das opções abaixo:
 
 * **1. Flutter (Framework):** Instale o ambiente de desenvolvimento em [flutter.dev](https://flutter.dev/) para compilar e executar a aplicação via mobile ou desktop.
 * **2. FlutLab:** Para uma execução rápida sem instalação, carregue o projeto diretamente no navegador através do [FlutLab.io](https://flutlab.io/).
+
+---
+
+## 📂 Código fonte da aplicação em Flutter
+
+Para garantir a transparência e facilitar a revisão técnica, o projeto pode ser:
+
+* **1. Visualizado Diretamente:** Acesse a pasta [**/src**](./src) para navegar pelo código-fonte (`.dart`) e arquivos de configuração. 
+   > *Nota: Nesta versão, o rótulo de classificação **"Matriculado"** foi refinado para **"Não Evadido"** (Classe 0), garantindo maior precisão semântica para alunos matriculados e egressos.*
 
 ---
 
