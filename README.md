@@ -44,7 +44,7 @@ Abaixo estão os links diretos para as frentes de desenvolvimento e códigos-fon
 Caso a aplicação web esteja offline, utilize uma das opções abaixo:
 
 * **1. Codespace:** Acesse esse repositório [tcc-evasao-codespace](https://github.com/sanderpiva/tcc-evasao-codespace.git) para compilar e executar o sistema no seu próprio codespace. 
-* **2. Flutter (Framework):** Instale o ambiente de desenvolvimento em [flutter.dev](https://flutter.dev/) para compilar e executar a aplicação (tcc-flutter.zip) via mobile ou desktop.
+* **2. Flutter (Framework):** Instale o ambiente de desenvolvimento em [flutter.dev](https://flutter.dev/) para compilar e executar a aplicação (tcc_flutter.zip) via mobile ou desktop.
 * **3. FlutLab:** Para uma execução rápida sem instalação, carregue o projeto diretamente no navegador através do [FlutLab.io](https://flutlab.io/).
 
 ---
