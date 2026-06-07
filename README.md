@@ -42,14 +42,14 @@ Abaixo estão os links diretos para as frentes de desenvolvimento e códigos-fon
 Caso a aplicação web esteja temporariamente offline, utilize uma das opções abaixo para executar o sistema:
 
 **1. GitHub Codespace**  
-Acesse o repositório [`tcc-evasao-codespace`](link-aqui) e execute a aplicação diretamente no navegador. O ambiente já vem configurado com todas as dependências, sem necessidade de instalação local.
+Acesse o repositório [`tcc-evasao-codespace`](https://github.com/sanderpiva/tcc-evasao-codespace.git) e execute a aplicação diretamente no navegador. O ambiente já vem configurado com todas as dependências, sem necessidade de instalação local.
 
 **2. Flutter**  
 Execute a aplicação utilizando o framework Flutter através de uma das seguintes formas:
 
 - **Ambiente Local**: Instale o Flutter SDK em [flutter.dev](https://flutter.dev) e execute o arquivo `tcc_flutter.zip` em seu computador. Permite rodar a aplicação via mobile ou desktop.
 
-- **FlutLab Online**: Para teste rápido sem instalações, importe o arquivo `tcc_flutter.zip` diretamente no navegador através do [FlutLab.io](https://flutlab.io).
+- **FlutLab Online**: Para teste rápido sem instalações, importe o arquivo `tcc_flutter.zip` diretamente no navegador através do [flutLab.io](https://flutlab.io).
 
 ---
 
