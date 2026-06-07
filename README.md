@@ -38,14 +38,18 @@ Abaixo estão os links diretos para as frentes de desenvolvimento e códigos-fon
 * **4. Aplicação Web Final:** [🚀 Disponível na Vercel](https://react-vercel-classificacao.vercel.app/)
 
 ---
-
 ## ⚠️ Alternativas de Acesso e Execução
+Caso a aplicação web esteja temporariamente offline, utilize uma das opções abaixo para executar o sistema:
 
-Caso a aplicação web esteja offline, utilize uma das opções abaixo:
+**1. GitHub Codespace**  
+Acesse o repositório [`tcc-evasao-codespace`](link-aqui) e execute a aplicação diretamente no navegador. O ambiente já vem configurado com todas as dependências, sem necessidade de instalação local.
 
-* **1. GitHub Codespace:** Acesse esse repositório [tcc-evasao-codespace](https://github.com/sanderpiva/tcc-evasao-codespace.git) para compilar e executar o sistema no seu próprio codespace. 
-* **2. Flutter (Framework):** Instale o ambiente de desenvolvimento em [flutter.dev](https://flutter.dev/) para compilar e executar a aplicação (tcc_flutter.zip) via mobile ou desktop.
-* **3. FlutLab:** Para uma execução rápida sem instalação, utilize a mesma aplicação zipada diretamente no navegador através do [FlutLab.io](https://flutlab.io/).
+**2. Flutter**  
+Execute a aplicação utilizando o framework Flutter através de uma das seguintes formas:
+
+- **Ambiente Local**: Instale o Flutter SDK em [flutter.dev](https://flutter.dev) e execute o arquivo `tcc_flutter.zip` em seu computador. Permite rodar a aplicação via mobile ou desktop.
+
+- **FlutLab Online**: Para teste rápido sem instalações, importe o arquivo `tcc_flutter.zip` diretamente no navegador através do [FlutLab.io](https://flutlab.io).
 
 ---
 
@@ -54,7 +58,7 @@ Caso a aplicação web esteja offline, utilize uma das opções abaixo:
 Para garantir a transparência e facilitar a revisão técnica, o projeto pode ser:
 
 * **1. Visualizado Diretamente:** Acesse a pasta [**/src**](./src) para navegar pelo código-fonte (`.dart`) e arquivos de configuração. 
-   > *Nota: Nesta versão, o rótulo de classificação **"Matriculado"** foi refinado para **"Não Evadido"** (Classe 0), garantindo maior precisão semântica para alunos matriculados e egressos.*
+   > *Nota: Nesta versão, a classe anteriormente rotulada como **"Matriculado"** foi renomeada para **"Não Evadido"** (Classe 0) para representar com maior precisão os estudantes que permanecem no curso ou já concluíram, diferenciando-os dos casos de evasão efetiva.*
 
 ---
 
