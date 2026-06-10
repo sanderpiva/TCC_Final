@@ -49,7 +49,7 @@ Execute a aplicação utilizando o framework Flutter através de uma das seguint
 
 - **Ambiente Local**: Instale o Flutter SDK em [flutter.dev](https://flutter.dev) e execute o arquivo `tcc_flutter.zip` em seu computador. Permite rodar a aplicação via mobile ou desktop.
 
-- **FlutLab Online**: Para teste rápido sem instalações, importe o arquivo `tcc_flutter.zip` diretamente no navegador através do [flutLab.io](https://flutlab.io).
+- **FlutLab Online**: Para teste rápido sem instalações, importe o arquivo `tcc_flutter.zip` diretamente no navegador através do [flutlab.io](https://flutlab.io).
 
 ---
 
@@ -59,6 +59,17 @@ Para garantir a transparência e facilitar a revisão técnica, o projeto pode s
 
 * **1. Visualizado Diretamente:** Acesse a pasta [**/src**](./src) para navegar pelo código-fonte (`.dart`) e arquivos de configuração. 
    > *Nota: Nesta versão, a classe anteriormente rotulada como **"Matriculado"** foi renomeada para **"Não Evadido"** (Classe 0) para representar com maior precisão os estudantes que permanecem no curso ou já concluíram, diferenciando-os dos casos de evasão efetiva.*
+
+---
+---
+
+## 📈 Análise de Melhorias e Roadmap Técnico
+
+Como parte do processo de pós-defesa e melhoria contínua deste portfólio, identifiquei oportunidades de otimização que podem ser aplicadas para elevar ainda mais a performance do modelo, especificamente em relação ao desbalanceamento observado entre as classes de "Evasão" e "Não Evadido":
+
+* **Tratamento de Desbalanceamento**: O modelo atual utiliza uma abordagem *baseline* (baseada na distribuição original dos dados). Para otimizar a sensibilidade (*recall*) na identificação da classe minoritária (casos de evasão), a implementação de técnicas como o **SMOTE** (para criação de exemplos sintéticos) ou a aplicação de **class_weights='balanced'** (em modelos como RandomForest ou Regressão Logística) seriam as próximas etapas naturais de evolução.
+* **Refinamento do Modelo**: Embora o *Naive Bayes* tenha apresentado uma performance satisfatória para a proposta inicial de pesquisa, a transição para algoritmos baseados em *Ensemble* (como *XGBoost* ou *Random Forest*) com ajuste de hiperparâmetros (via *GridSearch* ou *RandomizedSearch*) permitiria explorar fronteiras de decisão mais robustas.
+* **Transparência**: Este repositório mantém o código original submetido na defesa do TCC. O objetivo de manter estas observações é documentar o aprendizado contínuo e oferecer um caminho claro para futuras iterações deste projeto.
 
 ---
 
@@ -103,4 +114,4 @@ Para garantir a transparência e facilitar a revisão técnica, o projeto pode s
 
 ---
 
-#### 🚧 NoDropOut Soft 🚀 Finalizado em 01/10/2024 e Atualizado em 01/04/2026
+#### 🚧 NoDropOut Soft 🚀 Finalizado: Out/2024 | Versão atualizada: Abr/2026
