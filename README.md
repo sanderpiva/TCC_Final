@@ -103,4 +103,4 @@ Para garantir a transparência e facilitar a revisão técnica, o projeto pode s
 
 ---
 
-#### 🚧 NoDropOut Soft 🚀 Finalizado em 01/10/2024 e Atualizado em 01/04/2026
+#### 🚧 NoDropOut Soft 🚀 Finalizado em 01/10/2024 e Atualizado em 16/11/2026
